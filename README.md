@@ -21,22 +21,24 @@ To set up the backend service, follow these steps:
     ```bash
     cd minesweeper-express-backend
     ```
+    
+3. **Unzip the node_modules**
 
-3. **Install Dependencies**:
+4. **Install Dependencies**:
     ```bash
     npm install
     ```
 
-4. **Setup Environment Variables**:
+5. **Setup Environment Variables**:
     Create a `.env` file in the root directory and add the necessary environment variables. Refer to `.env.example` for the required variables.
 
-5. **Run Migrations and Seed Data**:
+6. **Run Migrations and Seed Data**:
     ```bash
     npx knex migrate:latest
     npx knex seed:run
     ```
 
-6. **Start the Server**:
+7. **Start the Server**:
     ```bash
     npm start
     ```
