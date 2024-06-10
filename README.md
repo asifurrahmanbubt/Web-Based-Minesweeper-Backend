@@ -65,5 +65,3 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-![image](https://github.com/asifurrahmanbubt/Web-Based-Minesweeper-Backend/assets/122219223/688c6ca7-7bfc-47b7-bf41-c6264a6dbd88)
- 
