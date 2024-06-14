@@ -14,7 +14,7 @@ To set up the backend service, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/asifurrahmanbubt/Web-Based-Minesweeper-Backend
     ```
 
 2. **Navigate to the Project Directory**:
